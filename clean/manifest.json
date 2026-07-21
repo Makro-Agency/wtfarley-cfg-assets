@@ -1,0 +1,2000 @@
+{
+ "oh": {
+  "base": "cfg-base-oh.png",
+  "fittings": [
+   {
+    "code": "0b",
+    "side": "inlet",
+    "fit": "DISS Male With Check",
+    "slug": "diss-male-with-check",
+    "file": "cfg-oh-inlet-0b-diss-male-with-check.png"
+   },
+   {
+    "code": "11",
+    "side": "outlet",
+    "fit": "1_8 NPT Male",
+    "slug": "1-8-npt-male",
+    "file": "cfg-oh-outlet-11-1-8-npt-male.png"
+   },
+   {
+    "code": "05",
+    "side": "inlet",
+    "fit": "Puritan Bennett Male",
+    "slug": "puritan-bennett-male",
+    "file": "cfg-oh-inlet-05-puritan-bennett-male.png"
+   },
+   {
+    "code": "20",
+    "side": "outlet",
+    "fit": "Schrader Male",
+    "slug": "schrader-male",
+    "file": "cfg-oh-outlet-20-schrader-male.png"
+   },
+   {
+    "code": "07",
+    "side": "inlet",
+    "fit": "1_8 NPT Female",
+    "slug": "1-8-npt-female",
+    "file": "cfg-oh-inlet-07-1-8-npt-female.png"
+   },
+   {
+    "code": "03",
+    "side": "inlet",
+    "fit": "Ohmeda Male",
+    "slug": "ohmeda-male",
+    "file": "cfg-oh-inlet-03-ohmeda-male.png"
+   },
+   {
+    "code": "11",
+    "side": "inlet",
+    "fit": "Ohmeda Female Coupler",
+    "slug": "ohmeda-female-coupler",
+    "file": "cfg-oh-inlet-11-ohmeda-female-coupler.png"
+   },
+   {
+    "code": "09",
+    "side": "inlet",
+    "fit": "1_8 NPT Male",
+    "slug": "1-8-npt-male",
+    "file": "cfg-oh-inlet-09-1-8-npt-male.png"
+   },
+   {
+    "code": "04",
+    "side": "outlet",
+    "fit": "Chemetron Female Coupler",
+    "slug": "chemetron-female-coupler",
+    "file": "cfg-oh-outlet-04-chemetron-female-coupler.png"
+   },
+   {
+    "code": "05",
+    "side": "outlet",
+    "fit": "Puritan Female Coupler",
+    "slug": "puritan-female-coupler",
+    "file": "cfg-oh-outlet-05-puritan-female-coupler.png"
+   },
+   {
+    "code": "19",
+    "side": "outlet",
+    "fit": "Ohmeda Male",
+    "slug": "ohmeda-male",
+    "file": "cfg-oh-outlet-19-ohmeda-male.png"
+   },
+   {
+    "code": "32",
+    "side": "outlet",
+    "fit": "3_16 Tubing FLOW Nipple",
+    "slug": "3-16-tubing-flow-nipple",
+    "file": "cfg-oh-outlet-32-3-16-tubing-flow-nipple.png"
+   },
+   {
+    "code": "01",
+    "side": "inlet",
+    "fit": "DISS Female Nut Nipple",
+    "slug": "diss-female-nut-nipple",
+    "file": "cfg-oh-inlet-01-diss-female-nut-nipple.png"
+   },
+   {
+    "code": "06",
+    "side": "outlet",
+    "fit": "Schrader Female Coupler",
+    "slug": "schrader-female-coupler",
+    "file": "cfg-oh-outlet-06-schrader-female-coupler.png"
+   },
+   {
+    "code": "10",
+    "side": "inlet",
+    "fit": "1_4 NPT Male",
+    "slug": "1-4-npt-male",
+    "file": "cfg-oh-inlet-10-1-4-npt-male.png"
+   },
+   {
+    "code": "0a",
+    "side": "inlet",
+    "fit": "Medstar Male Connect",
+    "slug": "medstar-male-connect",
+    "file": "cfg-oh-inlet-0a-medstar-male-connect.png"
+   },
+   {
+    "code": "0e",
+    "side": "inlet",
+    "fit": "Oxequip",
+    "slug": "oxequip",
+    "file": "cfg-oh-inlet-0e-oxequip.png"
+   },
+   {
+    "code": "07",
+    "side": "outlet",
+    "fit": "DISS Male With Check",
+    "slug": "diss-male-with-check",
+    "file": "cfg-oh-outlet-07-diss-male-with-check.png"
+   },
+   {
+    "code": "10",
+    "side": "outlet",
+    "fit": "1_4 NPT Female",
+    "slug": "1-4-npt-female",
+    "file": "cfg-oh-outlet-10-1-4-npt-female.png"
+   },
+   {
+    "code": "12",
+    "side": "outlet",
+    "fit": "1_4 NPT Male",
+    "slug": "1-4-npt-male",
+    "file": "cfg-oh-outlet-12-1-4-npt-male.png"
+   },
+   {
+    "code": "01",
+    "side": "outlet",
+    "fit": "DISS Female Nut Nipple",
+    "slug": "diss-female-nut-nipple",
+    "file": "cfg-oh-outlet-01-diss-female-nut-nipple.png"
+   },
+   {
+    "code": "02",
+    "side": "inlet",
+    "fit": "DISS Female Handtight",
+    "slug": "diss-female-handtight",
+    "file": "cfg-oh-inlet-02-diss-female-handtight.png"
+   },
+   {
+    "code": "08",
+    "side": "outlet",
+    "fit": "DISS Male",
+    "slug": "diss-male",
+    "file": "cfg-oh-outlet-08-diss-male.png"
+   },
+   {
+    "code": "06",
+    "side": "inlet",
+    "fit": "Schrader Male",
+    "slug": "schrader-male",
+    "file": "cfg-oh-inlet-06-schrader-male.png"
+   },
+   {
+    "code": "12",
+    "side": "inlet",
+    "fit": "Schrader Female Coupler",
+    "slug": "schrader-female-coupler",
+    "file": "cfg-oh-inlet-12-schrader-female-coupler.png"
+   },
+   {
+    "code": "03",
+    "side": "outlet",
+    "fit": "Ohmeda Female Coupler",
+    "slug": "ohmeda-female-coupler",
+    "file": "cfg-oh-outlet-03-ohmeda-female-coupler.png"
+   },
+   {
+    "code": "04",
+    "side": "inlet",
+    "fit": "Chemetron Male",
+    "slug": "chemetron-male",
+    "file": "cfg-oh-inlet-04-chemetron-male.png"
+   },
+   {
+    "code": "09",
+    "side": "outlet",
+    "fit": "1_8 NPT Female",
+    "slug": "1-8-npt-female",
+    "file": "cfg-oh-outlet-09-1-8-npt-female.png"
+   },
+   {
+    "code": "0d",
+    "side": "inlet",
+    "fit": "DISS Male No Check",
+    "slug": "diss-male-no-check",
+    "file": "cfg-oh-inlet-0d-diss-male-no-check.png"
+   },
+   {
+    "code": "08",
+    "side": "inlet",
+    "fit": "1_4 NPT Female",
+    "slug": "1-4-npt-female",
+    "file": "cfg-oh-inlet-08-1-4-npt-female.png"
+   },
+   {
+    "code": "02",
+    "side": "outlet",
+    "fit": "DISS Female Handtight",
+    "slug": "diss-female-handtight",
+    "file": "cfg-oh-outlet-02-diss-female-handtight.png"
+   }
+  ]
+ },
+ "air": {
+  "base": "cfg-base-air.png",
+  "fittings": [
+   {
+    "code": "0b",
+    "side": "inlet",
+    "fit": "DISS Male With Check",
+    "slug": "diss-male-with-check",
+    "file": "cfg-air-inlet-0b-diss-male-with-check.png"
+   },
+   {
+    "code": "11",
+    "side": "outlet",
+    "fit": "1_8 NPT Male",
+    "slug": "1-8-npt-male",
+    "file": "cfg-air-outlet-11-1-8-npt-male.png"
+   },
+   {
+    "code": "05",
+    "side": "inlet",
+    "fit": "Puritan Bennett Male",
+    "slug": "puritan-bennett-male",
+    "file": "cfg-air-inlet-05-puritan-bennett-male.png"
+   },
+   {
+    "code": "20",
+    "side": "outlet",
+    "fit": "Schrader Male",
+    "slug": "schrader-male",
+    "file": "cfg-air-outlet-20-schrader-male.png"
+   },
+   {
+    "code": "07",
+    "side": "inlet",
+    "fit": "1_8 NPT Female",
+    "slug": "1-8-npt-female",
+    "file": "cfg-air-inlet-07-1-8-npt-female.png"
+   },
+   {
+    "code": "03",
+    "side": "inlet",
+    "fit": "Ohmeda Male",
+    "slug": "ohmeda-male",
+    "file": "cfg-air-inlet-03-ohmeda-male.png"
+   },
+   {
+    "code": "11",
+    "side": "inlet",
+    "fit": "Ohmeda Female Coupler",
+    "slug": "ohmeda-female-coupler",
+    "file": "cfg-air-inlet-11-ohmeda-female-coupler.png"
+   },
+   {
+    "code": "09",
+    "side": "inlet",
+    "fit": "1_8 NPT Male",
+    "slug": "1-8-npt-male",
+    "file": "cfg-air-inlet-09-1-8-npt-male.png"
+   },
+   {
+    "code": "04",
+    "side": "outlet",
+    "fit": "Chemetron Female Coupler",
+    "slug": "chemetron-female-coupler",
+    "file": "cfg-air-outlet-04-chemetron-female-coupler.png"
+   },
+   {
+    "code": "05",
+    "side": "outlet",
+    "fit": "Puritan Female Coupler",
+    "slug": "puritan-female-coupler",
+    "file": "cfg-air-outlet-05-puritan-female-coupler.png"
+   },
+   {
+    "code": "19",
+    "side": "outlet",
+    "fit": "Ohmeda Male",
+    "slug": "ohmeda-male",
+    "file": "cfg-air-outlet-19-ohmeda-male.png"
+   },
+   {
+    "code": "32",
+    "side": "outlet",
+    "fit": "3_16 Tubing FLOW Nipple",
+    "slug": "3-16-tubing-flow-nipple",
+    "file": "cfg-air-outlet-32-3-16-tubing-flow-nipple.png"
+   },
+   {
+    "code": "01",
+    "side": "inlet",
+    "fit": "DISS Female Nut Nipple",
+    "slug": "diss-female-nut-nipple",
+    "file": "cfg-air-inlet-01-diss-female-nut-nipple.png"
+   },
+   {
+    "code": "06",
+    "side": "outlet",
+    "fit": "Schrader Female Coupler",
+    "slug": "schrader-female-coupler",
+    "file": "cfg-air-outlet-06-schrader-female-coupler.png"
+   },
+   {
+    "code": "10",
+    "side": "inlet",
+    "fit": "1_4 NPT Male",
+    "slug": "1-4-npt-male",
+    "file": "cfg-air-inlet-10-1-4-npt-male.png"
+   },
+   {
+    "code": "0a",
+    "side": "inlet",
+    "fit": "Medstar Male Connect",
+    "slug": "medstar-male-connect",
+    "file": "cfg-air-inlet-0a-medstar-male-connect.png"
+   },
+   {
+    "code": "0e",
+    "side": "inlet",
+    "fit": "Oxequip",
+    "slug": "oxequip",
+    "file": "cfg-air-inlet-0e-oxequip.png"
+   },
+   {
+    "code": "07",
+    "side": "outlet",
+    "fit": "DISS Male With Check",
+    "slug": "diss-male-with-check",
+    "file": "cfg-air-outlet-07-diss-male-with-check.png"
+   },
+   {
+    "code": "10",
+    "side": "outlet",
+    "fit": "1_4 NPT Female",
+    "slug": "1-4-npt-female",
+    "file": "cfg-air-outlet-10-1-4-npt-female.png"
+   },
+   {
+    "code": "12",
+    "side": "outlet",
+    "fit": "1_4 NPT Male",
+    "slug": "1-4-npt-male",
+    "file": "cfg-air-outlet-12-1-4-npt-male.png"
+   },
+   {
+    "code": "01",
+    "side": "outlet",
+    "fit": "DISS Female Nut Nipple",
+    "slug": "diss-female-nut-nipple",
+    "file": "cfg-air-outlet-01-diss-female-nut-nipple.png"
+   },
+   {
+    "code": "02",
+    "side": "inlet",
+    "fit": "DISS Female Handtight",
+    "slug": "diss-female-handtight",
+    "file": "cfg-air-inlet-02-diss-female-handtight.png"
+   },
+   {
+    "code": "08",
+    "side": "outlet",
+    "fit": "DISS Male",
+    "slug": "diss-male",
+    "file": "cfg-air-outlet-08-diss-male.png"
+   },
+   {
+    "code": "06",
+    "side": "inlet",
+    "fit": "Schrader Male",
+    "slug": "schrader-male",
+    "file": "cfg-air-inlet-06-schrader-male.png"
+   },
+   {
+    "code": "12",
+    "side": "inlet",
+    "fit": "Schrader Female Coupler",
+    "slug": "schrader-female-coupler",
+    "file": "cfg-air-inlet-12-schrader-female-coupler.png"
+   },
+   {
+    "code": "03",
+    "side": "outlet",
+    "fit": "Ohmeda Female Coupler",
+    "slug": "ohmeda-female-coupler",
+    "file": "cfg-air-outlet-03-ohmeda-female-coupler.png"
+   },
+   {
+    "code": "04",
+    "side": "inlet",
+    "fit": "Chemetron Male",
+    "slug": "chemetron-male",
+    "file": "cfg-air-inlet-04-chemetron-male.png"
+   },
+   {
+    "code": "09",
+    "side": "outlet",
+    "fit": "1_8 NPT Female",
+    "slug": "1-8-npt-female",
+    "file": "cfg-air-outlet-09-1-8-npt-female.png"
+   },
+   {
+    "code": "0d",
+    "side": "inlet",
+    "fit": "DISS Male No Check",
+    "slug": "diss-male-no-check",
+    "file": "cfg-air-inlet-0d-diss-male-no-check.png"
+   },
+   {
+    "code": "08",
+    "side": "inlet",
+    "fit": "1_4 NPT Female",
+    "slug": "1-4-npt-female",
+    "file": "cfg-air-inlet-08-1-4-npt-female.png"
+   },
+   {
+    "code": "02",
+    "side": "outlet",
+    "fit": "DISS Female Handtight",
+    "slug": "diss-female-handtight",
+    "file": "cfg-air-outlet-02-diss-female-handtight.png"
+   }
+  ]
+ },
+ "vac": {
+  "base": "cfg-base-vac.png",
+  "fittings": [
+   {
+    "code": "0b",
+    "side": "inlet",
+    "fit": "DISS Male With Check",
+    "slug": "diss-male-with-check",
+    "file": "cfg-vac-inlet-0b-diss-male-with-check.png"
+   },
+   {
+    "code": "11",
+    "side": "outlet",
+    "fit": "1_8 NPT Male",
+    "slug": "1-8-npt-male",
+    "file": "cfg-vac-outlet-11-1-8-npt-male.png"
+   },
+   {
+    "code": "05",
+    "side": "inlet",
+    "fit": "Puritan Bennett Male",
+    "slug": "puritan-bennett-male",
+    "file": "cfg-vac-inlet-05-puritan-bennett-male.png"
+   },
+   {
+    "code": "20",
+    "side": "outlet",
+    "fit": "Schrader Male",
+    "slug": "schrader-male",
+    "file": "cfg-vac-outlet-20-schrader-male.png"
+   },
+   {
+    "code": "07",
+    "side": "inlet",
+    "fit": "1_8 NPT Female",
+    "slug": "1-8-npt-female",
+    "file": "cfg-vac-inlet-07-1-8-npt-female.png"
+   },
+   {
+    "code": "03",
+    "side": "inlet",
+    "fit": "Ohmeda Male",
+    "slug": "ohmeda-male",
+    "file": "cfg-vac-inlet-03-ohmeda-male.png"
+   },
+   {
+    "code": "11",
+    "side": "inlet",
+    "fit": "Ohmeda Female Coupler",
+    "slug": "ohmeda-female-coupler",
+    "file": "cfg-vac-inlet-11-ohmeda-female-coupler.png"
+   },
+   {
+    "code": "09",
+    "side": "inlet",
+    "fit": "1_8 NPT Male",
+    "slug": "1-8-npt-male",
+    "file": "cfg-vac-inlet-09-1-8-npt-male.png"
+   },
+   {
+    "code": "04",
+    "side": "outlet",
+    "fit": "Chemetron Female Coupler",
+    "slug": "chemetron-female-coupler",
+    "file": "cfg-vac-outlet-04-chemetron-female-coupler.png"
+   },
+   {
+    "code": "05",
+    "side": "outlet",
+    "fit": "Puritan Female Coupler",
+    "slug": "puritan-female-coupler",
+    "file": "cfg-vac-outlet-05-puritan-female-coupler.png"
+   },
+   {
+    "code": "19",
+    "side": "outlet",
+    "fit": "Ohmeda Male",
+    "slug": "ohmeda-male",
+    "file": "cfg-vac-outlet-19-ohmeda-male.png"
+   },
+   {
+    "code": "32",
+    "side": "outlet",
+    "fit": "3_16 Tubing FLOW Nipple",
+    "slug": "3-16-tubing-flow-nipple",
+    "file": "cfg-vac-outlet-32-3-16-tubing-flow-nipple.png"
+   },
+   {
+    "code": "01",
+    "side": "inlet",
+    "fit": "DISS Female Nut Nipple",
+    "slug": "diss-female-nut-nipple",
+    "file": "cfg-vac-inlet-01-diss-female-nut-nipple.png"
+   },
+   {
+    "code": "06",
+    "side": "outlet",
+    "fit": "Schrader Female Coupler",
+    "slug": "schrader-female-coupler",
+    "file": "cfg-vac-outlet-06-schrader-female-coupler.png"
+   },
+   {
+    "code": "10",
+    "side": "inlet",
+    "fit": "1_4 NPT Male",
+    "slug": "1-4-npt-male",
+    "file": "cfg-vac-inlet-10-1-4-npt-male.png"
+   },
+   {
+    "code": "0a",
+    "side": "inlet",
+    "fit": "Medstar Male Connect",
+    "slug": "medstar-male-connect",
+    "file": "cfg-vac-inlet-0a-medstar-male-connect.png"
+   },
+   {
+    "code": "0e",
+    "side": "inlet",
+    "fit": "Oxequip",
+    "slug": "oxequip",
+    "file": "cfg-vac-inlet-0e-oxequip.png"
+   },
+   {
+    "code": "07",
+    "side": "outlet",
+    "fit": "DISS Male With Check",
+    "slug": "diss-male-with-check",
+    "file": "cfg-vac-outlet-07-diss-male-with-check.png"
+   },
+   {
+    "code": "10",
+    "side": "outlet",
+    "fit": "1_4 NPT Female",
+    "slug": "1-4-npt-female",
+    "file": "cfg-vac-outlet-10-1-4-npt-female.png"
+   },
+   {
+    "code": "12",
+    "side": "outlet",
+    "fit": "1_4 NPT Male",
+    "slug": "1-4-npt-male",
+    "file": "cfg-vac-outlet-12-1-4-npt-male.png"
+   },
+   {
+    "code": "01",
+    "side": "outlet",
+    "fit": "DISS Female Nut Nipple",
+    "slug": "diss-female-nut-nipple",
+    "file": "cfg-vac-outlet-01-diss-female-nut-nipple.png"
+   },
+   {
+    "code": "02",
+    "side": "inlet",
+    "fit": "DISS Female Handtight",
+    "slug": "diss-female-handtight",
+    "file": "cfg-vac-inlet-02-diss-female-handtight.png"
+   },
+   {
+    "code": "08",
+    "side": "outlet",
+    "fit": "DISS Male",
+    "slug": "diss-male",
+    "file": "cfg-vac-outlet-08-diss-male.png"
+   },
+   {
+    "code": "06",
+    "side": "inlet",
+    "fit": "Schrader Male",
+    "slug": "schrader-male",
+    "file": "cfg-vac-inlet-06-schrader-male.png"
+   },
+   {
+    "code": "12",
+    "side": "inlet",
+    "fit": "Schrader Female Coupler",
+    "slug": "schrader-female-coupler",
+    "file": "cfg-vac-inlet-12-schrader-female-coupler.png"
+   },
+   {
+    "code": "03",
+    "side": "outlet",
+    "fit": "Ohmeda Female Coupler",
+    "slug": "ohmeda-female-coupler",
+    "file": "cfg-vac-outlet-03-ohmeda-female-coupler.png"
+   },
+   {
+    "code": "04",
+    "side": "inlet",
+    "fit": "Chemetron Male",
+    "slug": "chemetron-male",
+    "file": "cfg-vac-inlet-04-chemetron-male.png"
+   },
+   {
+    "code": "09",
+    "side": "outlet",
+    "fit": "1_8 NPT Female",
+    "slug": "1-8-npt-female",
+    "file": "cfg-vac-outlet-09-1-8-npt-female.png"
+   },
+   {
+    "code": "0d",
+    "side": "inlet",
+    "fit": "DISS Male No Check",
+    "slug": "diss-male-no-check",
+    "file": "cfg-vac-inlet-0d-diss-male-no-check.png"
+   },
+   {
+    "code": "08",
+    "side": "inlet",
+    "fit": "1_4 NPT Female",
+    "slug": "1-4-npt-female",
+    "file": "cfg-vac-inlet-08-1-4-npt-female.png"
+   },
+   {
+    "code": "02",
+    "side": "outlet",
+    "fit": "DISS Female Handtight",
+    "slug": "diss-female-handtight",
+    "file": "cfg-vac-outlet-02-diss-female-handtight.png"
+   }
+  ]
+ },
+ "n2": {
+  "base": "cfg-base-n2.png",
+  "fittings": [
+   {
+    "code": "0b",
+    "side": "inlet",
+    "fit": "DISS Male With Check",
+    "slug": "diss-male-with-check",
+    "file": "cfg-n2-inlet-0b-diss-male-with-check.png"
+   },
+   {
+    "code": "11",
+    "side": "outlet",
+    "fit": "1_8 NPT Male",
+    "slug": "1-8-npt-male",
+    "file": "cfg-n2-outlet-11-1-8-npt-male.png"
+   },
+   {
+    "code": "05",
+    "side": "inlet",
+    "fit": "Puritan Bennett Male",
+    "slug": "puritan-bennett-male",
+    "file": "cfg-n2-inlet-05-puritan-bennett-male.png"
+   },
+   {
+    "code": "20",
+    "side": "outlet",
+    "fit": "Schrader Male",
+    "slug": "schrader-male",
+    "file": "cfg-n2-outlet-20-schrader-male.png"
+   },
+   {
+    "code": "07",
+    "side": "inlet",
+    "fit": "1_8 NPT Female",
+    "slug": "1-8-npt-female",
+    "file": "cfg-n2-inlet-07-1-8-npt-female.png"
+   },
+   {
+    "code": "03",
+    "side": "inlet",
+    "fit": "Ohmeda Male",
+    "slug": "ohmeda-male",
+    "file": "cfg-n2-inlet-03-ohmeda-male.png"
+   },
+   {
+    "code": "11",
+    "side": "inlet",
+    "fit": "Ohmeda Female Coupler",
+    "slug": "ohmeda-female-coupler",
+    "file": "cfg-n2-inlet-11-ohmeda-female-coupler.png"
+   },
+   {
+    "code": "09",
+    "side": "inlet",
+    "fit": "1_8 NPT Male",
+    "slug": "1-8-npt-male",
+    "file": "cfg-n2-inlet-09-1-8-npt-male.png"
+   },
+   {
+    "code": "04",
+    "side": "outlet",
+    "fit": "Chemetron Female Coupler",
+    "slug": "chemetron-female-coupler",
+    "file": "cfg-n2-outlet-04-chemetron-female-coupler.png"
+   },
+   {
+    "code": "05",
+    "side": "outlet",
+    "fit": "Puritan Female Coupler",
+    "slug": "puritan-female-coupler",
+    "file": "cfg-n2-outlet-05-puritan-female-coupler.png"
+   },
+   {
+    "code": "19",
+    "side": "outlet",
+    "fit": "Ohmeda Male",
+    "slug": "ohmeda-male",
+    "file": "cfg-n2-outlet-19-ohmeda-male.png"
+   },
+   {
+    "code": "32",
+    "side": "outlet",
+    "fit": "3_16 Tubing FLOW Nipple",
+    "slug": "3-16-tubing-flow-nipple",
+    "file": "cfg-n2-outlet-32-3-16-tubing-flow-nipple.png"
+   },
+   {
+    "code": "01",
+    "side": "inlet",
+    "fit": "DISS Female Nut Nipple",
+    "slug": "diss-female-nut-nipple",
+    "file": "cfg-n2-inlet-01-diss-female-nut-nipple.png"
+   },
+   {
+    "code": "06",
+    "side": "outlet",
+    "fit": "Schrader Female Coupler",
+    "slug": "schrader-female-coupler",
+    "file": "cfg-n2-outlet-06-schrader-female-coupler.png"
+   },
+   {
+    "code": "10",
+    "side": "inlet",
+    "fit": "1_4 NPT Male",
+    "slug": "1-4-npt-male",
+    "file": "cfg-n2-inlet-10-1-4-npt-male.png"
+   },
+   {
+    "code": "0a",
+    "side": "inlet",
+    "fit": "Medstar Male Connect",
+    "slug": "medstar-male-connect",
+    "file": "cfg-n2-inlet-0a-medstar-male-connect.png"
+   },
+   {
+    "code": "0e",
+    "side": "inlet",
+    "fit": "Oxequip",
+    "slug": "oxequip",
+    "file": "cfg-n2-inlet-0e-oxequip.png"
+   },
+   {
+    "code": "07",
+    "side": "outlet",
+    "fit": "DISS Male With Check",
+    "slug": "diss-male-with-check",
+    "file": "cfg-n2-outlet-07-diss-male-with-check.png"
+   },
+   {
+    "code": "10",
+    "side": "outlet",
+    "fit": "1_4 NPT Female",
+    "slug": "1-4-npt-female",
+    "file": "cfg-n2-outlet-10-1-4-npt-female.png"
+   },
+   {
+    "code": "12",
+    "side": "outlet",
+    "fit": "1_4 NPT Male",
+    "slug": "1-4-npt-male",
+    "file": "cfg-n2-outlet-12-1-4-npt-male.png"
+   },
+   {
+    "code": "01",
+    "side": "outlet",
+    "fit": "DISS Female Nut Nipple",
+    "slug": "diss-female-nut-nipple",
+    "file": "cfg-n2-outlet-01-diss-female-nut-nipple.png"
+   },
+   {
+    "code": "02",
+    "side": "inlet",
+    "fit": "DISS Female Handtight",
+    "slug": "diss-female-handtight",
+    "file": "cfg-n2-inlet-02-diss-female-handtight.png"
+   },
+   {
+    "code": "08",
+    "side": "outlet",
+    "fit": "DISS Male",
+    "slug": "diss-male",
+    "file": "cfg-n2-outlet-08-diss-male.png"
+   },
+   {
+    "code": "06",
+    "side": "inlet",
+    "fit": "Schrader Male",
+    "slug": "schrader-male",
+    "file": "cfg-n2-inlet-06-schrader-male.png"
+   },
+   {
+    "code": "12",
+    "side": "inlet",
+    "fit": "Schrader Female Coupler",
+    "slug": "schrader-female-coupler",
+    "file": "cfg-n2-inlet-12-schrader-female-coupler.png"
+   },
+   {
+    "code": "03",
+    "side": "outlet",
+    "fit": "Ohmeda Female Coupler",
+    "slug": "ohmeda-female-coupler",
+    "file": "cfg-n2-outlet-03-ohmeda-female-coupler.png"
+   },
+   {
+    "code": "04",
+    "side": "inlet",
+    "fit": "Chemetron Male",
+    "slug": "chemetron-male",
+    "file": "cfg-n2-inlet-04-chemetron-male.png"
+   },
+   {
+    "code": "09",
+    "side": "outlet",
+    "fit": "1_8 NPT Female",
+    "slug": "1-8-npt-female",
+    "file": "cfg-n2-outlet-09-1-8-npt-female.png"
+   },
+   {
+    "code": "0d",
+    "side": "inlet",
+    "fit": "DISS Male No Check",
+    "slug": "diss-male-no-check",
+    "file": "cfg-n2-inlet-0d-diss-male-no-check.png"
+   },
+   {
+    "code": "08",
+    "side": "inlet",
+    "fit": "1_4 NPT Female",
+    "slug": "1-4-npt-female",
+    "file": "cfg-n2-inlet-08-1-4-npt-female.png"
+   },
+   {
+    "code": "02",
+    "side": "outlet",
+    "fit": "DISS Female Handtight",
+    "slug": "diss-female-handtight",
+    "file": "cfg-n2-outlet-02-diss-female-handtight.png"
+   }
+  ]
+ },
+ "n2o": {
+  "base": "cfg-base-n2o.png",
+  "fittings": [
+   {
+    "code": "0b",
+    "side": "inlet",
+    "fit": "DISS Male With Check",
+    "slug": "diss-male-with-check",
+    "file": "cfg-n2o-inlet-0b-diss-male-with-check.png"
+   },
+   {
+    "code": "11",
+    "side": "outlet",
+    "fit": "1_8 NPT Male",
+    "slug": "1-8-npt-male",
+    "file": "cfg-n2o-outlet-11-1-8-npt-male.png"
+   },
+   {
+    "code": "05",
+    "side": "inlet",
+    "fit": "Puritan Bennett Male",
+    "slug": "puritan-bennett-male",
+    "file": "cfg-n2o-inlet-05-puritan-bennett-male.png"
+   },
+   {
+    "code": "20",
+    "side": "outlet",
+    "fit": "Schrader Male",
+    "slug": "schrader-male",
+    "file": "cfg-n2o-outlet-20-schrader-male.png"
+   },
+   {
+    "code": "07",
+    "side": "inlet",
+    "fit": "1_8 NPT Female",
+    "slug": "1-8-npt-female",
+    "file": "cfg-n2o-inlet-07-1-8-npt-female.png"
+   },
+   {
+    "code": "03",
+    "side": "inlet",
+    "fit": "Ohmeda Male",
+    "slug": "ohmeda-male",
+    "file": "cfg-n2o-inlet-03-ohmeda-male.png"
+   },
+   {
+    "code": "11",
+    "side": "inlet",
+    "fit": "Ohmeda Female Coupler",
+    "slug": "ohmeda-female-coupler",
+    "file": "cfg-n2o-inlet-11-ohmeda-female-coupler.png"
+   },
+   {
+    "code": "09",
+    "side": "inlet",
+    "fit": "1_8 NPT Male",
+    "slug": "1-8-npt-male",
+    "file": "cfg-n2o-inlet-09-1-8-npt-male.png"
+   },
+   {
+    "code": "04",
+    "side": "outlet",
+    "fit": "Chemetron Female Coupler",
+    "slug": "chemetron-female-coupler",
+    "file": "cfg-n2o-outlet-04-chemetron-female-coupler.png"
+   },
+   {
+    "code": "05",
+    "side": "outlet",
+    "fit": "Puritan Female Coupler",
+    "slug": "puritan-female-coupler",
+    "file": "cfg-n2o-outlet-05-puritan-female-coupler.png"
+   },
+   {
+    "code": "19",
+    "side": "outlet",
+    "fit": "Ohmeda Male",
+    "slug": "ohmeda-male",
+    "file": "cfg-n2o-outlet-19-ohmeda-male.png"
+   },
+   {
+    "code": "32",
+    "side": "outlet",
+    "fit": "3_16 Tubing FLOW Nipple",
+    "slug": "3-16-tubing-flow-nipple",
+    "file": "cfg-n2o-outlet-32-3-16-tubing-flow-nipple.png"
+   },
+   {
+    "code": "01",
+    "side": "inlet",
+    "fit": "DISS Female Nut Nipple",
+    "slug": "diss-female-nut-nipple",
+    "file": "cfg-n2o-inlet-01-diss-female-nut-nipple.png"
+   },
+   {
+    "code": "06",
+    "side": "outlet",
+    "fit": "Schrader Female Coupler",
+    "slug": "schrader-female-coupler",
+    "file": "cfg-n2o-outlet-06-schrader-female-coupler.png"
+   },
+   {
+    "code": "10",
+    "side": "inlet",
+    "fit": "1_4 NPT Male",
+    "slug": "1-4-npt-male",
+    "file": "cfg-n2o-inlet-10-1-4-npt-male.png"
+   },
+   {
+    "code": "0a",
+    "side": "inlet",
+    "fit": "Medstar Male Connect",
+    "slug": "medstar-male-connect",
+    "file": "cfg-n2o-inlet-0a-medstar-male-connect.png"
+   },
+   {
+    "code": "0e",
+    "side": "inlet",
+    "fit": "Oxequip",
+    "slug": "oxequip",
+    "file": "cfg-n2o-inlet-0e-oxequip.png"
+   },
+   {
+    "code": "07",
+    "side": "outlet",
+    "fit": "DISS Male With Check",
+    "slug": "diss-male-with-check",
+    "file": "cfg-n2o-outlet-07-diss-male-with-check.png"
+   },
+   {
+    "code": "10",
+    "side": "outlet",
+    "fit": "1_4 NPT Female",
+    "slug": "1-4-npt-female",
+    "file": "cfg-n2o-outlet-10-1-4-npt-female.png"
+   },
+   {
+    "code": "12",
+    "side": "outlet",
+    "fit": "1_4 NPT Male",
+    "slug": "1-4-npt-male",
+    "file": "cfg-n2o-outlet-12-1-4-npt-male.png"
+   },
+   {
+    "code": "01",
+    "side": "outlet",
+    "fit": "DISS Female Nut Nipple",
+    "slug": "diss-female-nut-nipple",
+    "file": "cfg-n2o-outlet-01-diss-female-nut-nipple.png"
+   },
+   {
+    "code": "02",
+    "side": "inlet",
+    "fit": "DISS Female Handtight",
+    "slug": "diss-female-handtight",
+    "file": "cfg-n2o-inlet-02-diss-female-handtight.png"
+   },
+   {
+    "code": "08",
+    "side": "outlet",
+    "fit": "DISS Male",
+    "slug": "diss-male",
+    "file": "cfg-n2o-outlet-08-diss-male.png"
+   },
+   {
+    "code": "06",
+    "side": "inlet",
+    "fit": "Schrader Male",
+    "slug": "schrader-male",
+    "file": "cfg-n2o-inlet-06-schrader-male.png"
+   },
+   {
+    "code": "12",
+    "side": "inlet",
+    "fit": "Schrader Female Coupler",
+    "slug": "schrader-female-coupler",
+    "file": "cfg-n2o-inlet-12-schrader-female-coupler.png"
+   },
+   {
+    "code": "03",
+    "side": "outlet",
+    "fit": "Ohmeda Female Coupler",
+    "slug": "ohmeda-female-coupler",
+    "file": "cfg-n2o-outlet-03-ohmeda-female-coupler.png"
+   },
+   {
+    "code": "04",
+    "side": "inlet",
+    "fit": "Chemetron Male",
+    "slug": "chemetron-male",
+    "file": "cfg-n2o-inlet-04-chemetron-male.png"
+   },
+   {
+    "code": "09",
+    "side": "outlet",
+    "fit": "1_8 NPT Female",
+    "slug": "1-8-npt-female",
+    "file": "cfg-n2o-outlet-09-1-8-npt-female.png"
+   },
+   {
+    "code": "0d",
+    "side": "inlet",
+    "fit": "DISS Male No Check",
+    "slug": "diss-male-no-check",
+    "file": "cfg-n2o-inlet-0d-diss-male-no-check.png"
+   },
+   {
+    "code": "08",
+    "side": "inlet",
+    "fit": "1_4 NPT Female",
+    "slug": "1-4-npt-female",
+    "file": "cfg-n2o-inlet-08-1-4-npt-female.png"
+   },
+   {
+    "code": "02",
+    "side": "outlet",
+    "fit": "DISS Female Handtight",
+    "slug": "diss-female-handtight",
+    "file": "cfg-n2o-outlet-02-diss-female-handtight.png"
+   }
+  ]
+ },
+ "co2": {
+  "base": "cfg-base-co2.png",
+  "fittings": [
+   {
+    "code": "0b",
+    "side": "inlet",
+    "fit": "DISS Male With Check",
+    "slug": "diss-male-with-check",
+    "file": "cfg-co2-inlet-0b-diss-male-with-check.png"
+   },
+   {
+    "code": "11",
+    "side": "outlet",
+    "fit": "1_8 NPT Male",
+    "slug": "1-8-npt-male",
+    "file": "cfg-co2-outlet-11-1-8-npt-male.png"
+   },
+   {
+    "code": "05",
+    "side": "inlet",
+    "fit": "Puritan Bennett Male",
+    "slug": "puritan-bennett-male",
+    "file": "cfg-co2-inlet-05-puritan-bennett-male.png"
+   },
+   {
+    "code": "20",
+    "side": "outlet",
+    "fit": "Schrader Male",
+    "slug": "schrader-male",
+    "file": "cfg-co2-outlet-20-schrader-male.png"
+   },
+   {
+    "code": "07",
+    "side": "inlet",
+    "fit": "1_8 NPT Female",
+    "slug": "1-8-npt-female",
+    "file": "cfg-co2-inlet-07-1-8-npt-female.png"
+   },
+   {
+    "code": "03",
+    "side": "inlet",
+    "fit": "Ohmeda Male",
+    "slug": "ohmeda-male",
+    "file": "cfg-co2-inlet-03-ohmeda-male.png"
+   },
+   {
+    "code": "11",
+    "side": "inlet",
+    "fit": "Ohmeda Female Coupler",
+    "slug": "ohmeda-female-coupler",
+    "file": "cfg-co2-inlet-11-ohmeda-female-coupler.png"
+   },
+   {
+    "code": "09",
+    "side": "inlet",
+    "fit": "1_8 NPT Male",
+    "slug": "1-8-npt-male",
+    "file": "cfg-co2-inlet-09-1-8-npt-male.png"
+   },
+   {
+    "code": "04",
+    "side": "outlet",
+    "fit": "Chemetron Female Coupler",
+    "slug": "chemetron-female-coupler",
+    "file": "cfg-co2-outlet-04-chemetron-female-coupler.png"
+   },
+   {
+    "code": "05",
+    "side": "outlet",
+    "fit": "Puritan Female Coupler",
+    "slug": "puritan-female-coupler",
+    "file": "cfg-co2-outlet-05-puritan-female-coupler.png"
+   },
+   {
+    "code": "19",
+    "side": "outlet",
+    "fit": "Ohmeda Male",
+    "slug": "ohmeda-male",
+    "file": "cfg-co2-outlet-19-ohmeda-male.png"
+   },
+   {
+    "code": "32",
+    "side": "outlet",
+    "fit": "3_16 Tubing FLOW Nipple",
+    "slug": "3-16-tubing-flow-nipple",
+    "file": "cfg-co2-outlet-32-3-16-tubing-flow-nipple.png"
+   },
+   {
+    "code": "01",
+    "side": "inlet",
+    "fit": "DISS Female Nut Nipple",
+    "slug": "diss-female-nut-nipple",
+    "file": "cfg-co2-inlet-01-diss-female-nut-nipple.png"
+   },
+   {
+    "code": "06",
+    "side": "outlet",
+    "fit": "Schrader Female Coupler",
+    "slug": "schrader-female-coupler",
+    "file": "cfg-co2-outlet-06-schrader-female-coupler.png"
+   },
+   {
+    "code": "10",
+    "side": "inlet",
+    "fit": "1_4 NPT Male",
+    "slug": "1-4-npt-male",
+    "file": "cfg-co2-inlet-10-1-4-npt-male.png"
+   },
+   {
+    "code": "0a",
+    "side": "inlet",
+    "fit": "Medstar Male Connect",
+    "slug": "medstar-male-connect",
+    "file": "cfg-co2-inlet-0a-medstar-male-connect.png"
+   },
+   {
+    "code": "0e",
+    "side": "inlet",
+    "fit": "Oxequip",
+    "slug": "oxequip",
+    "file": "cfg-co2-inlet-0e-oxequip.png"
+   },
+   {
+    "code": "07",
+    "side": "outlet",
+    "fit": "DISS Male With Check",
+    "slug": "diss-male-with-check",
+    "file": "cfg-co2-outlet-07-diss-male-with-check.png"
+   },
+   {
+    "code": "10",
+    "side": "outlet",
+    "fit": "1_4 NPT Female",
+    "slug": "1-4-npt-female",
+    "file": "cfg-co2-outlet-10-1-4-npt-female.png"
+   },
+   {
+    "code": "12",
+    "side": "outlet",
+    "fit": "1_4 NPT Male",
+    "slug": "1-4-npt-male",
+    "file": "cfg-co2-outlet-12-1-4-npt-male.png"
+   },
+   {
+    "code": "01",
+    "side": "outlet",
+    "fit": "DISS Female Nut Nipple",
+    "slug": "diss-female-nut-nipple",
+    "file": "cfg-co2-outlet-01-diss-female-nut-nipple.png"
+   },
+   {
+    "code": "02",
+    "side": "inlet",
+    "fit": "DISS Female Handtight",
+    "slug": "diss-female-handtight",
+    "file": "cfg-co2-inlet-02-diss-female-handtight.png"
+   },
+   {
+    "code": "08",
+    "side": "outlet",
+    "fit": "DISS Male",
+    "slug": "diss-male",
+    "file": "cfg-co2-outlet-08-diss-male.png"
+   },
+   {
+    "code": "06",
+    "side": "inlet",
+    "fit": "Schrader Male",
+    "slug": "schrader-male",
+    "file": "cfg-co2-inlet-06-schrader-male.png"
+   },
+   {
+    "code": "12",
+    "side": "inlet",
+    "fit": "Schrader Female Coupler",
+    "slug": "schrader-female-coupler",
+    "file": "cfg-co2-inlet-12-schrader-female-coupler.png"
+   },
+   {
+    "code": "03",
+    "side": "outlet",
+    "fit": "Ohmeda Female Coupler",
+    "slug": "ohmeda-female-coupler",
+    "file": "cfg-co2-outlet-03-ohmeda-female-coupler.png"
+   },
+   {
+    "code": "04",
+    "side": "inlet",
+    "fit": "Chemetron Male",
+    "slug": "chemetron-male",
+    "file": "cfg-co2-inlet-04-chemetron-male.png"
+   },
+   {
+    "code": "09",
+    "side": "outlet",
+    "fit": "1_8 NPT Female",
+    "slug": "1-8-npt-female",
+    "file": "cfg-co2-outlet-09-1-8-npt-female.png"
+   },
+   {
+    "code": "0d",
+    "side": "inlet",
+    "fit": "DISS Male No Check",
+    "slug": "diss-male-no-check",
+    "file": "cfg-co2-inlet-0d-diss-male-no-check.png"
+   },
+   {
+    "code": "08",
+    "side": "inlet",
+    "fit": "1_4 NPT Female",
+    "slug": "1-4-npt-female",
+    "file": "cfg-co2-inlet-08-1-4-npt-female.png"
+   },
+   {
+    "code": "02",
+    "side": "outlet",
+    "fit": "DISS Female Handtight",
+    "slug": "diss-female-handtight",
+    "file": "cfg-co2-outlet-02-diss-female-handtight.png"
+   }
+  ]
+ },
+ "hel": {
+  "base": "cfg-base-hel.png",
+  "fittings": [
+   {
+    "code": "0b",
+    "side": "inlet",
+    "fit": "DISS Male With Check",
+    "slug": "diss-male-with-check",
+    "file": "cfg-hel-inlet-0b-diss-male-with-check.png"
+   },
+   {
+    "code": "11",
+    "side": "outlet",
+    "fit": "1_8 NPT Male",
+    "slug": "1-8-npt-male",
+    "file": "cfg-hel-outlet-11-1-8-npt-male.png"
+   },
+   {
+    "code": "05",
+    "side": "inlet",
+    "fit": "Puritan Bennett Male",
+    "slug": "puritan-bennett-male",
+    "file": "cfg-hel-inlet-05-puritan-bennett-male.png"
+   },
+   {
+    "code": "20",
+    "side": "outlet",
+    "fit": "Schrader Male",
+    "slug": "schrader-male",
+    "file": "cfg-hel-outlet-20-schrader-male.png"
+   },
+   {
+    "code": "07",
+    "side": "inlet",
+    "fit": "1_8 NPT Female",
+    "slug": "1-8-npt-female",
+    "file": "cfg-hel-inlet-07-1-8-npt-female.png"
+   },
+   {
+    "code": "03",
+    "side": "inlet",
+    "fit": "Ohmeda Male",
+    "slug": "ohmeda-male",
+    "file": "cfg-hel-inlet-03-ohmeda-male.png"
+   },
+   {
+    "code": "11",
+    "side": "inlet",
+    "fit": "Ohmeda Female Coupler",
+    "slug": "ohmeda-female-coupler",
+    "file": "cfg-hel-inlet-11-ohmeda-female-coupler.png"
+   },
+   {
+    "code": "09",
+    "side": "inlet",
+    "fit": "1_8 NPT Male",
+    "slug": "1-8-npt-male",
+    "file": "cfg-hel-inlet-09-1-8-npt-male.png"
+   },
+   {
+    "code": "04",
+    "side": "outlet",
+    "fit": "Chemetron Female Coupler",
+    "slug": "chemetron-female-coupler",
+    "file": "cfg-hel-outlet-04-chemetron-female-coupler.png"
+   },
+   {
+    "code": "05",
+    "side": "outlet",
+    "fit": "Puritan Female Coupler",
+    "slug": "puritan-female-coupler",
+    "file": "cfg-hel-outlet-05-puritan-female-coupler.png"
+   },
+   {
+    "code": "19",
+    "side": "outlet",
+    "fit": "Ohmeda Male",
+    "slug": "ohmeda-male",
+    "file": "cfg-hel-outlet-19-ohmeda-male.png"
+   },
+   {
+    "code": "32",
+    "side": "outlet",
+    "fit": "3_16 Tubing FLOW Nipple",
+    "slug": "3-16-tubing-flow-nipple",
+    "file": "cfg-hel-outlet-32-3-16-tubing-flow-nipple.png"
+   },
+   {
+    "code": "01",
+    "side": "inlet",
+    "fit": "DISS Female Nut Nipple",
+    "slug": "diss-female-nut-nipple",
+    "file": "cfg-hel-inlet-01-diss-female-nut-nipple.png"
+   },
+   {
+    "code": "06",
+    "side": "outlet",
+    "fit": "Schrader Female Coupler",
+    "slug": "schrader-female-coupler",
+    "file": "cfg-hel-outlet-06-schrader-female-coupler.png"
+   },
+   {
+    "code": "10",
+    "side": "inlet",
+    "fit": "1_4 NPT Male",
+    "slug": "1-4-npt-male",
+    "file": "cfg-hel-inlet-10-1-4-npt-male.png"
+   },
+   {
+    "code": "0a",
+    "side": "inlet",
+    "fit": "Medstar Male Connect",
+    "slug": "medstar-male-connect",
+    "file": "cfg-hel-inlet-0a-medstar-male-connect.png"
+   },
+   {
+    "code": "0e",
+    "side": "inlet",
+    "fit": "Oxequip",
+    "slug": "oxequip",
+    "file": "cfg-hel-inlet-0e-oxequip.png"
+   },
+   {
+    "code": "07",
+    "side": "outlet",
+    "fit": "DISS Male With Check",
+    "slug": "diss-male-with-check",
+    "file": "cfg-hel-outlet-07-diss-male-with-check.png"
+   },
+   {
+    "code": "10",
+    "side": "outlet",
+    "fit": "1_4 NPT Female",
+    "slug": "1-4-npt-female",
+    "file": "cfg-hel-outlet-10-1-4-npt-female.png"
+   },
+   {
+    "code": "12",
+    "side": "outlet",
+    "fit": "1_4 NPT Male",
+    "slug": "1-4-npt-male",
+    "file": "cfg-hel-outlet-12-1-4-npt-male.png"
+   },
+   {
+    "code": "01",
+    "side": "outlet",
+    "fit": "DISS Female Nut Nipple",
+    "slug": "diss-female-nut-nipple",
+    "file": "cfg-hel-outlet-01-diss-female-nut-nipple.png"
+   },
+   {
+    "code": "02",
+    "side": "inlet",
+    "fit": "DISS Female Handtight",
+    "slug": "diss-female-handtight",
+    "file": "cfg-hel-inlet-02-diss-female-handtight.png"
+   },
+   {
+    "code": "08",
+    "side": "outlet",
+    "fit": "DISS Male",
+    "slug": "diss-male",
+    "file": "cfg-hel-outlet-08-diss-male.png"
+   },
+   {
+    "code": "06",
+    "side": "inlet",
+    "fit": "Schrader Male",
+    "slug": "schrader-male",
+    "file": "cfg-hel-inlet-06-schrader-male.png"
+   },
+   {
+    "code": "12",
+    "side": "inlet",
+    "fit": "Schrader Female Coupler",
+    "slug": "schrader-female-coupler",
+    "file": "cfg-hel-inlet-12-schrader-female-coupler.png"
+   },
+   {
+    "code": "03",
+    "side": "outlet",
+    "fit": "Ohmeda Female Coupler",
+    "slug": "ohmeda-female-coupler",
+    "file": "cfg-hel-outlet-03-ohmeda-female-coupler.png"
+   },
+   {
+    "code": "04",
+    "side": "inlet",
+    "fit": "Chemetron Male",
+    "slug": "chemetron-male",
+    "file": "cfg-hel-inlet-04-chemetron-male.png"
+   },
+   {
+    "code": "09",
+    "side": "outlet",
+    "fit": "1_8 NPT Female",
+    "slug": "1-8-npt-female",
+    "file": "cfg-hel-outlet-09-1-8-npt-female.png"
+   },
+   {
+    "code": "0d",
+    "side": "inlet",
+    "fit": "DISS Male No Check",
+    "slug": "diss-male-no-check",
+    "file": "cfg-hel-inlet-0d-diss-male-no-check.png"
+   },
+   {
+    "code": "08",
+    "side": "inlet",
+    "fit": "1_4 NPT Female",
+    "slug": "1-4-npt-female",
+    "file": "cfg-hel-inlet-08-1-4-npt-female.png"
+   },
+   {
+    "code": "02",
+    "side": "outlet",
+    "fit": "DISS Female Handtight",
+    "slug": "diss-female-handtight",
+    "file": "cfg-hel-outlet-02-diss-female-handtight.png"
+   }
+  ]
+ },
+ "evac": {
+  "base": "cfg-base-evac.png",
+  "fittings": [
+   {
+    "code": "0b",
+    "side": "inlet",
+    "fit": "DISS Male With Check",
+    "slug": "diss-male-with-check",
+    "file": "cfg-evac-inlet-0b-diss-male-with-check.png"
+   },
+   {
+    "code": "11",
+    "side": "outlet",
+    "fit": "1_8 NPT Male",
+    "slug": "1-8-npt-male",
+    "file": "cfg-evac-outlet-11-1-8-npt-male.png"
+   },
+   {
+    "code": "05",
+    "side": "inlet",
+    "fit": "Puritan Bennett Male",
+    "slug": "puritan-bennett-male",
+    "file": "cfg-evac-inlet-05-puritan-bennett-male.png"
+   },
+   {
+    "code": "20",
+    "side": "outlet",
+    "fit": "Schrader Male",
+    "slug": "schrader-male",
+    "file": "cfg-evac-outlet-20-schrader-male.png"
+   },
+   {
+    "code": "07",
+    "side": "inlet",
+    "fit": "1_8 NPT Female",
+    "slug": "1-8-npt-female",
+    "file": "cfg-evac-inlet-07-1-8-npt-female.png"
+   },
+   {
+    "code": "03",
+    "side": "inlet",
+    "fit": "Ohmeda Male",
+    "slug": "ohmeda-male",
+    "file": "cfg-evac-inlet-03-ohmeda-male.png"
+   },
+   {
+    "code": "11",
+    "side": "inlet",
+    "fit": "Ohmeda Female Coupler",
+    "slug": "ohmeda-female-coupler",
+    "file": "cfg-evac-inlet-11-ohmeda-female-coupler.png"
+   },
+   {
+    "code": "09",
+    "side": "inlet",
+    "fit": "1_8 NPT Male",
+    "slug": "1-8-npt-male",
+    "file": "cfg-evac-inlet-09-1-8-npt-male.png"
+   },
+   {
+    "code": "04",
+    "side": "outlet",
+    "fit": "Chemetron Female Coupler",
+    "slug": "chemetron-female-coupler",
+    "file": "cfg-evac-outlet-04-chemetron-female-coupler.png"
+   },
+   {
+    "code": "05",
+    "side": "outlet",
+    "fit": "Puritan Female Coupler",
+    "slug": "puritan-female-coupler",
+    "file": "cfg-evac-outlet-05-puritan-female-coupler.png"
+   },
+   {
+    "code": "19",
+    "side": "outlet",
+    "fit": "Ohmeda Male",
+    "slug": "ohmeda-male",
+    "file": "cfg-evac-outlet-19-ohmeda-male.png"
+   },
+   {
+    "code": "32",
+    "side": "outlet",
+    "fit": "3_16 Tubing FLOW Nipple",
+    "slug": "3-16-tubing-flow-nipple",
+    "file": "cfg-evac-outlet-32-3-16-tubing-flow-nipple.png"
+   },
+   {
+    "code": "01",
+    "side": "inlet",
+    "fit": "DISS Female Nut Nipple",
+    "slug": "diss-female-nut-nipple",
+    "file": "cfg-evac-inlet-01-diss-female-nut-nipple.png"
+   },
+   {
+    "code": "06",
+    "side": "outlet",
+    "fit": "Schrader Female Coupler",
+    "slug": "schrader-female-coupler",
+    "file": "cfg-evac-outlet-06-schrader-female-coupler.png"
+   },
+   {
+    "code": "10",
+    "side": "inlet",
+    "fit": "1_4 NPT Male",
+    "slug": "1-4-npt-male",
+    "file": "cfg-evac-inlet-10-1-4-npt-male.png"
+   },
+   {
+    "code": "0a",
+    "side": "inlet",
+    "fit": "Medstar Male Connect",
+    "slug": "medstar-male-connect",
+    "file": "cfg-evac-inlet-0a-medstar-male-connect.png"
+   },
+   {
+    "code": "0e",
+    "side": "inlet",
+    "fit": "Oxequip",
+    "slug": "oxequip",
+    "file": "cfg-evac-inlet-0e-oxequip.png"
+   },
+   {
+    "code": "07",
+    "side": "outlet",
+    "fit": "DISS Male With Check",
+    "slug": "diss-male-with-check",
+    "file": "cfg-evac-outlet-07-diss-male-with-check.png"
+   },
+   {
+    "code": "10",
+    "side": "outlet",
+    "fit": "1_4 NPT Female",
+    "slug": "1-4-npt-female",
+    "file": "cfg-evac-outlet-10-1-4-npt-female.png"
+   },
+   {
+    "code": "12",
+    "side": "outlet",
+    "fit": "1_4 NPT Male",
+    "slug": "1-4-npt-male",
+    "file": "cfg-evac-outlet-12-1-4-npt-male.png"
+   },
+   {
+    "code": "01",
+    "side": "outlet",
+    "fit": "DISS Female Nut Nipple",
+    "slug": "diss-female-nut-nipple",
+    "file": "cfg-evac-outlet-01-diss-female-nut-nipple.png"
+   },
+   {
+    "code": "02",
+    "side": "inlet",
+    "fit": "DISS Female Handtight",
+    "slug": "diss-female-handtight",
+    "file": "cfg-evac-inlet-02-diss-female-handtight.png"
+   },
+   {
+    "code": "08",
+    "side": "outlet",
+    "fit": "DISS Male",
+    "slug": "diss-male",
+    "file": "cfg-evac-outlet-08-diss-male.png"
+   },
+   {
+    "code": "06",
+    "side": "inlet",
+    "fit": "Schrader Male",
+    "slug": "schrader-male",
+    "file": "cfg-evac-inlet-06-schrader-male.png"
+   },
+   {
+    "code": "12",
+    "side": "inlet",
+    "fit": "Schrader Female Coupler",
+    "slug": "schrader-female-coupler",
+    "file": "cfg-evac-inlet-12-schrader-female-coupler.png"
+   },
+   {
+    "code": "03",
+    "side": "outlet",
+    "fit": "Ohmeda Female Coupler",
+    "slug": "ohmeda-female-coupler",
+    "file": "cfg-evac-outlet-03-ohmeda-female-coupler.png"
+   },
+   {
+    "code": "04",
+    "side": "inlet",
+    "fit": "Chemetron Male",
+    "slug": "chemetron-male",
+    "file": "cfg-evac-inlet-04-chemetron-male.png"
+   },
+   {
+    "code": "09",
+    "side": "outlet",
+    "fit": "1_8 NPT Female",
+    "slug": "1-8-npt-female",
+    "file": "cfg-evac-outlet-09-1-8-npt-female.png"
+   },
+   {
+    "code": "0d",
+    "side": "inlet",
+    "fit": "DISS Male No Check",
+    "slug": "diss-male-no-check",
+    "file": "cfg-evac-inlet-0d-diss-male-no-check.png"
+   },
+   {
+    "code": "08",
+    "side": "inlet",
+    "fit": "1_4 NPT Female",
+    "slug": "1-4-npt-female",
+    "file": "cfg-evac-inlet-08-1-4-npt-female.png"
+   },
+   {
+    "code": "02",
+    "side": "outlet",
+    "fit": "DISS Female Handtight",
+    "slug": "diss-female-handtight",
+    "file": "cfg-evac-outlet-02-diss-female-handtight.png"
+   }
+  ]
+ },
+ "iair": {
+  "base": "cfg-base-iair.png",
+  "fittings": [
+   {
+    "code": "0b",
+    "side": "inlet",
+    "fit": "DISS Male With Check",
+    "slug": "diss-male-with-check",
+    "file": "cfg-iair-inlet-0b-diss-male-with-check.png"
+   },
+   {
+    "code": "11",
+    "side": "outlet",
+    "fit": "1_8 NPT Male",
+    "slug": "1-8-npt-male",
+    "file": "cfg-iair-outlet-11-1-8-npt-male.png"
+   },
+   {
+    "code": "05",
+    "side": "inlet",
+    "fit": "Puritan Bennett Male",
+    "slug": "puritan-bennett-male",
+    "file": "cfg-iair-inlet-05-puritan-bennett-male.png"
+   },
+   {
+    "code": "20",
+    "side": "outlet",
+    "fit": "Schrader Male",
+    "slug": "schrader-male",
+    "file": "cfg-iair-outlet-20-schrader-male.png"
+   },
+   {
+    "code": "07",
+    "side": "inlet",
+    "fit": "1_8 NPT Female",
+    "slug": "1-8-npt-female",
+    "file": "cfg-iair-inlet-07-1-8-npt-female.png"
+   },
+   {
+    "code": "03",
+    "side": "inlet",
+    "fit": "Ohmeda Male",
+    "slug": "ohmeda-male",
+    "file": "cfg-iair-inlet-03-ohmeda-male.png"
+   },
+   {
+    "code": "11",
+    "side": "inlet",
+    "fit": "Ohmeda Female Coupler",
+    "slug": "ohmeda-female-coupler",
+    "file": "cfg-iair-inlet-11-ohmeda-female-coupler.png"
+   },
+   {
+    "code": "09",
+    "side": "inlet",
+    "fit": "1_8 NPT Male",
+    "slug": "1-8-npt-male",
+    "file": "cfg-iair-inlet-09-1-8-npt-male.png"
+   },
+   {
+    "code": "04",
+    "side": "outlet",
+    "fit": "Chemetron Female Coupler",
+    "slug": "chemetron-female-coupler",
+    "file": "cfg-iair-outlet-04-chemetron-female-coupler.png"
+   },
+   {
+    "code": "05",
+    "side": "outlet",
+    "fit": "Puritan Female Coupler",
+    "slug": "puritan-female-coupler",
+    "file": "cfg-iair-outlet-05-puritan-female-coupler.png"
+   },
+   {
+    "code": "19",
+    "side": "outlet",
+    "fit": "Ohmeda Male",
+    "slug": "ohmeda-male",
+    "file": "cfg-iair-outlet-19-ohmeda-male.png"
+   },
+   {
+    "code": "32",
+    "side": "outlet",
+    "fit": "3_16 Tubing FLOW Nipple",
+    "slug": "3-16-tubing-flow-nipple",
+    "file": "cfg-iair-outlet-32-3-16-tubing-flow-nipple.png"
+   },
+   {
+    "code": "01",
+    "side": "inlet",
+    "fit": "DISS Female Nut Nipple",
+    "slug": "diss-female-nut-nipple",
+    "file": "cfg-iair-inlet-01-diss-female-nut-nipple.png"
+   },
+   {
+    "code": "06",
+    "side": "outlet",
+    "fit": "Schrader Female Coupler",
+    "slug": "schrader-female-coupler",
+    "file": "cfg-iair-outlet-06-schrader-female-coupler.png"
+   },
+   {
+    "code": "10",
+    "side": "inlet",
+    "fit": "1_4 NPT Male",
+    "slug": "1-4-npt-male",
+    "file": "cfg-iair-inlet-10-1-4-npt-male.png"
+   },
+   {
+    "code": "0a",
+    "side": "inlet",
+    "fit": "Medstar Male Connect",
+    "slug": "medstar-male-connect",
+    "file": "cfg-iair-inlet-0a-medstar-male-connect.png"
+   },
+   {
+    "code": "0e",
+    "side": "inlet",
+    "fit": "Oxequip",
+    "slug": "oxequip",
+    "file": "cfg-iair-inlet-0e-oxequip.png"
+   },
+   {
+    "code": "07",
+    "side": "outlet",
+    "fit": "DISS Male With Check",
+    "slug": "diss-male-with-check",
+    "file": "cfg-iair-outlet-07-diss-male-with-check.png"
+   },
+   {
+    "code": "10",
+    "side": "outlet",
+    "fit": "1_4 NPT Female",
+    "slug": "1-4-npt-female",
+    "file": "cfg-iair-outlet-10-1-4-npt-female.png"
+   },
+   {
+    "code": "12",
+    "side": "outlet",
+    "fit": "1_4 NPT Male",
+    "slug": "1-4-npt-male",
+    "file": "cfg-iair-outlet-12-1-4-npt-male.png"
+   },
+   {
+    "code": "01",
+    "side": "outlet",
+    "fit": "DISS Female Nut Nipple",
+    "slug": "diss-female-nut-nipple",
+    "file": "cfg-iair-outlet-01-diss-female-nut-nipple.png"
+   },
+   {
+    "code": "02",
+    "side": "inlet",
+    "fit": "DISS Female Handtight",
+    "slug": "diss-female-handtight",
+    "file": "cfg-iair-inlet-02-diss-female-handtight.png"
+   },
+   {
+    "code": "08",
+    "side": "outlet",
+    "fit": "DISS Male",
+    "slug": "diss-male",
+    "file": "cfg-iair-outlet-08-diss-male.png"
+   },
+   {
+    "code": "06",
+    "side": "inlet",
+    "fit": "Schrader Male",
+    "slug": "schrader-male",
+    "file": "cfg-iair-inlet-06-schrader-male.png"
+   },
+   {
+    "code": "12",
+    "side": "inlet",
+    "fit": "Schrader Female Coupler",
+    "slug": "schrader-female-coupler",
+    "file": "cfg-iair-inlet-12-schrader-female-coupler.png"
+   },
+   {
+    "code": "03",
+    "side": "outlet",
+    "fit": "Ohmeda Female Coupler",
+    "slug": "ohmeda-female-coupler",
+    "file": "cfg-iair-outlet-03-ohmeda-female-coupler.png"
+   },
+   {
+    "code": "04",
+    "side": "inlet",
+    "fit": "Chemetron Male",
+    "slug": "chemetron-male",
+    "file": "cfg-iair-inlet-04-chemetron-male.png"
+   },
+   {
+    "code": "09",
+    "side": "outlet",
+    "fit": "1_8 NPT Female",
+    "slug": "1-8-npt-female",
+    "file": "cfg-iair-outlet-09-1-8-npt-female.png"
+   },
+   {
+    "code": "0d",
+    "side": "inlet",
+    "fit": "DISS Male No Check",
+    "slug": "diss-male-no-check",
+    "file": "cfg-iair-inlet-0d-diss-male-no-check.png"
+   },
+   {
+    "code": "08",
+    "side": "inlet",
+    "fit": "1_4 NPT Female",
+    "slug": "1-4-npt-female",
+    "file": "cfg-iair-inlet-08-1-4-npt-female.png"
+   },
+   {
+    "code": "02",
+    "side": "outlet",
+    "fit": "DISS Female Handtight",
+    "slug": "diss-female-handtight",
+    "file": "cfg-iair-outlet-02-diss-female-handtight.png"
+   }
+  ]
+ }
+}
